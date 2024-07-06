@@ -42,6 +42,7 @@ Spiderfoot stable build
 
 
  
+![2](https://github.com/albertakhim/Spiderfoot-Lab/assets/174826500/759fae05-f2af-4a91-b254-7a051826f3a2)
 
 ![1](https://github.com/albertakhim/Spiderfoot-Lab/assets/174826500/a0d5c532-9a1a-4079-b9b5-1464f2441d8b)
 
