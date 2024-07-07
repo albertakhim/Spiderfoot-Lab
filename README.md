@@ -48,11 +48,8 @@ Spiderfoot stable build
 ![sf55](https://github.com/albertakhim/Spiderfoot-Lab/assets/174826500/f728adb9-7579-4430-98eb-d5405a2e1440)
 ![Screenshot 2024-07-06 162648](https://github.com/albertakhim/Spiderfoot-Lab/assets/174826500/7eecfd89-a639-4a9e-b03f-6d9418947089)
 ![sf77](https://github.com/albertakhim/Spiderfoot-Lab/assets/174826500/fef69c57-1fa5-4711-8cb4-e0ca8d3cefee)
-
+![sf88](https://github.com/albertakhim/Spiderfoot-Lab/assets/174826500/1820e355-4316-4a01-85a2-06e5d98400f4)
 ![sf6](https://github.com/albertakhim/Spiderfoot-Lab/assets/174826500/936fdc41-8094-4e36-a3e0-424532a946d5)
-
- 
-
  ![Screenshot 2024-07-06 162542](https://github.com/albertakhim/Spiderfoot-Lab/assets/174826500/5c3b8748-baa4-41de-9719-0bf39cfa8228)
  
 ![Screenshot 2024-07-06 162613](https://github.com/albertakhim/Spiderfoot-Lab/assets/174826500/f1a38912-b32f-46cb-af47-a5cbc216febd)
